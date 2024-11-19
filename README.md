@@ -37,3 +37,9 @@ rollback para deshacer cambios
 usar eloquent crear modelos de tablas para interactuar 
 php artisan make:model NombreModel
 migracion y modelo php artisan make:model nombre -m
+
+
+https://www.youtube.com/watch?v=xCfcM_VOb7E&list=PLpKWS6gp0jd8wsN5wSDwEFcvkD6nQ66yM&index=15
+
+
+reference video 
